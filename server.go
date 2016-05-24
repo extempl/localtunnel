@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/inconshreveable/go-vhost"
-	"github.com/progrium/duplex/poc2/duplex"
+	"github.com/progrium/duplex/tree/old-2015/poc2/duplex"
 )
 
 func server(backendListen, frontendListen string) {
